@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVQuiz</string>
+    <string name="creation">Created By:</string>
+    <string name="Exit">EXIT</string>
+    <string name="stats">Quiz Stats</string>
+    <string name="Correct">Correct Answers</string>
+    <string name="tryAgain">Try again and see if you can get all the correct answers!</string>
+    <string name="again">Try Again</string>
+    <string name="quit">Quit</string>
+</resources>
